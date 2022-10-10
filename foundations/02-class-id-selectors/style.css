@@ -1,0 +1,19 @@
+.smallred {
+    background-color: #FFA7A7;
+    font-family: "Verdana, DejaVu Sans, san-serif"
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#bigblue {
+    font-size: 36px;
+    color: #0000FF;
+}
+
+#greenymeany {
+    background-color: #80FF80;
+    font-size: 24px;
+    font-style: bold;
+}
